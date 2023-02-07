@@ -1,0 +1,15 @@
+C:\Users\Patryk\Desktop\Intersys-Recruitment-Tasks\IntersysTask1\obj\Debug\net6.0\IntersysTask1.csproj.AssemblyReference.cache
+C:\Users\Patryk\Desktop\Intersys-Recruitment-Tasks\IntersysTask1\obj\Debug\net6.0\IntersysTask1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Patryk\Desktop\Intersys-Recruitment-Tasks\IntersysTask1\obj\Debug\net6.0\IntersysTask1.AssemblyInfoInputs.cache
+C:\Users\Patryk\Desktop\Intersys-Recruitment-Tasks\IntersysTask1\obj\Debug\net6.0\IntersysTask1.AssemblyInfo.cs
+C:\Users\Patryk\Desktop\Intersys-Recruitment-Tasks\IntersysTask1\obj\Debug\net6.0\IntersysTask1.csproj.CoreCompileInputs.cache
+C:\Users\Patryk\Desktop\Intersys-Recruitment-Tasks\IntersysTask1\bin\Debug\net6.0\IntersysTask1.exe
+C:\Users\Patryk\Desktop\Intersys-Recruitment-Tasks\IntersysTask1\bin\Debug\net6.0\IntersysTask1.deps.json
+C:\Users\Patryk\Desktop\Intersys-Recruitment-Tasks\IntersysTask1\bin\Debug\net6.0\IntersysTask1.runtimeconfig.json
+C:\Users\Patryk\Desktop\Intersys-Recruitment-Tasks\IntersysTask1\bin\Debug\net6.0\IntersysTask1.dll
+C:\Users\Patryk\Desktop\Intersys-Recruitment-Tasks\IntersysTask1\bin\Debug\net6.0\IntersysTask1.pdb
+C:\Users\Patryk\Desktop\Intersys-Recruitment-Tasks\IntersysTask1\obj\Debug\net6.0\IntersysTask1.dll
+C:\Users\Patryk\Desktop\Intersys-Recruitment-Tasks\IntersysTask1\obj\Debug\net6.0\refint\IntersysTask1.dll
+C:\Users\Patryk\Desktop\Intersys-Recruitment-Tasks\IntersysTask1\obj\Debug\net6.0\IntersysTask1.pdb
+C:\Users\Patryk\Desktop\Intersys-Recruitment-Tasks\IntersysTask1\obj\Debug\net6.0\IntersysTask1.genruntimeconfig.cache
+C:\Users\Patryk\Desktop\Intersys-Recruitment-Tasks\IntersysTask1\obj\Debug\net6.0\ref\IntersysTask1.dll
