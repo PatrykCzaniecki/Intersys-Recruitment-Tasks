@@ -1,0 +1,15 @@
+C:\Users\Patryk\Desktop\Intersys-Recruitment-Tasks\IntersysTaskExistingPowersOf2\bin\Debug\net6.0\IntersysTaskExistingPowersOf2.exe
+C:\Users\Patryk\Desktop\Intersys-Recruitment-Tasks\IntersysTaskExistingPowersOf2\bin\Debug\net6.0\IntersysTaskExistingPowersOf2.deps.json
+C:\Users\Patryk\Desktop\Intersys-Recruitment-Tasks\IntersysTaskExistingPowersOf2\bin\Debug\net6.0\IntersysTaskExistingPowersOf2.runtimeconfig.json
+C:\Users\Patryk\Desktop\Intersys-Recruitment-Tasks\IntersysTaskExistingPowersOf2\bin\Debug\net6.0\IntersysTaskExistingPowersOf2.dll
+C:\Users\Patryk\Desktop\Intersys-Recruitment-Tasks\IntersysTaskExistingPowersOf2\bin\Debug\net6.0\IntersysTaskExistingPowersOf2.pdb
+C:\Users\Patryk\Desktop\Intersys-Recruitment-Tasks\IntersysTaskExistingPowersOf2\obj\Debug\net6.0\IntersysTaskExistingPowersOf2.csproj.AssemblyReference.cache
+C:\Users\Patryk\Desktop\Intersys-Recruitment-Tasks\IntersysTaskExistingPowersOf2\obj\Debug\net6.0\IntersysTaskExistingPowersOf2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Patryk\Desktop\Intersys-Recruitment-Tasks\IntersysTaskExistingPowersOf2\obj\Debug\net6.0\IntersysTaskExistingPowersOf2.AssemblyInfoInputs.cache
+C:\Users\Patryk\Desktop\Intersys-Recruitment-Tasks\IntersysTaskExistingPowersOf2\obj\Debug\net6.0\IntersysTaskExistingPowersOf2.AssemblyInfo.cs
+C:\Users\Patryk\Desktop\Intersys-Recruitment-Tasks\IntersysTaskExistingPowersOf2\obj\Debug\net6.0\IntersysTaskExistingPowersOf2.csproj.CoreCompileInputs.cache
+C:\Users\Patryk\Desktop\Intersys-Recruitment-Tasks\IntersysTaskExistingPowersOf2\obj\Debug\net6.0\IntersysTaskExistingPowersOf2.dll
+C:\Users\Patryk\Desktop\Intersys-Recruitment-Tasks\IntersysTaskExistingPowersOf2\obj\Debug\net6.0\refint\IntersysTaskExistingPowersOf2.dll
+C:\Users\Patryk\Desktop\Intersys-Recruitment-Tasks\IntersysTaskExistingPowersOf2\obj\Debug\net6.0\IntersysTaskExistingPowersOf2.pdb
+C:\Users\Patryk\Desktop\Intersys-Recruitment-Tasks\IntersysTaskExistingPowersOf2\obj\Debug\net6.0\IntersysTaskExistingPowersOf2.genruntimeconfig.cache
+C:\Users\Patryk\Desktop\Intersys-Recruitment-Tasks\IntersysTaskExistingPowersOf2\obj\Debug\net6.0\ref\IntersysTaskExistingPowersOf2.dll
