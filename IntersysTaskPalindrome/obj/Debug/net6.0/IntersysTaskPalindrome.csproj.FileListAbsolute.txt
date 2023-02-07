@@ -1,0 +1,15 @@
+C:\Users\Patryk\Desktop\Intersys-Recruitment-Tasks\IntersysTaskPalindrome\bin\Debug\net6.0\IntersysTaskPalindrome.exe
+C:\Users\Patryk\Desktop\Intersys-Recruitment-Tasks\IntersysTaskPalindrome\bin\Debug\net6.0\IntersysTaskPalindrome.deps.json
+C:\Users\Patryk\Desktop\Intersys-Recruitment-Tasks\IntersysTaskPalindrome\bin\Debug\net6.0\IntersysTaskPalindrome.runtimeconfig.json
+C:\Users\Patryk\Desktop\Intersys-Recruitment-Tasks\IntersysTaskPalindrome\bin\Debug\net6.0\IntersysTaskPalindrome.dll
+C:\Users\Patryk\Desktop\Intersys-Recruitment-Tasks\IntersysTaskPalindrome\bin\Debug\net6.0\IntersysTaskPalindrome.pdb
+C:\Users\Patryk\Desktop\Intersys-Recruitment-Tasks\IntersysTaskPalindrome\obj\Debug\net6.0\IntersysTaskPalindrome.csproj.AssemblyReference.cache
+C:\Users\Patryk\Desktop\Intersys-Recruitment-Tasks\IntersysTaskPalindrome\obj\Debug\net6.0\IntersysTaskPalindrome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Patryk\Desktop\Intersys-Recruitment-Tasks\IntersysTaskPalindrome\obj\Debug\net6.0\IntersysTaskPalindrome.AssemblyInfoInputs.cache
+C:\Users\Patryk\Desktop\Intersys-Recruitment-Tasks\IntersysTaskPalindrome\obj\Debug\net6.0\IntersysTaskPalindrome.AssemblyInfo.cs
+C:\Users\Patryk\Desktop\Intersys-Recruitment-Tasks\IntersysTaskPalindrome\obj\Debug\net6.0\IntersysTaskPalindrome.csproj.CoreCompileInputs.cache
+C:\Users\Patryk\Desktop\Intersys-Recruitment-Tasks\IntersysTaskPalindrome\obj\Debug\net6.0\IntersysTaskPalindrome.dll
+C:\Users\Patryk\Desktop\Intersys-Recruitment-Tasks\IntersysTaskPalindrome\obj\Debug\net6.0\refint\IntersysTaskPalindrome.dll
+C:\Users\Patryk\Desktop\Intersys-Recruitment-Tasks\IntersysTaskPalindrome\obj\Debug\net6.0\IntersysTaskPalindrome.pdb
+C:\Users\Patryk\Desktop\Intersys-Recruitment-Tasks\IntersysTaskPalindrome\obj\Debug\net6.0\IntersysTaskPalindrome.genruntimeconfig.cache
+C:\Users\Patryk\Desktop\Intersys-Recruitment-Tasks\IntersysTaskPalindrome\obj\Debug\net6.0\ref\IntersysTaskPalindrome.dll
