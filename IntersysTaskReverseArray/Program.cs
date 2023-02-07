@@ -1,4 +1,4 @@
-﻿namespace IntersysTask1;
+﻿namespace IntersysTaskReverseArray;
 
 internal class Program
 {

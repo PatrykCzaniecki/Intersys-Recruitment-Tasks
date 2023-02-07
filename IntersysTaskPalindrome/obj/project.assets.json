@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Patryk\\Desktop\\Intersys-Recruitment-Tasks\\IntersysTask1\\IntersysTask1.csproj",
-      "projectName": "IntersysTask1",
-      "projectPath": "C:\\Users\\Patryk\\Desktop\\Intersys-Recruitment-Tasks\\IntersysTask1\\IntersysTask1.csproj",
+      "projectUniqueName": "C:\\Users\\Patryk\\Desktop\\Intersys-Recruitment-Tasks\\IntersysTaskPalindrome\\IntersysTaskPalindrome.csproj",
+      "projectName": "IntersysTaskPalindrome",
+      "projectPath": "C:\\Users\\Patryk\\Desktop\\Intersys-Recruitment-Tasks\\IntersysTaskPalindrome\\IntersysTaskPalindrome.csproj",
       "packagesPath": "C:\\Users\\Patryk\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Patryk\\Desktop\\Intersys-Recruitment-Tasks\\IntersysTask1\\obj\\",
+      "outputPath": "C:\\Users\\Patryk\\Desktop\\Intersys-Recruitment-Tasks\\IntersysTaskPalindrome\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Patryk\\AppData\\Roaming\\NuGet\\NuGet.Config",
