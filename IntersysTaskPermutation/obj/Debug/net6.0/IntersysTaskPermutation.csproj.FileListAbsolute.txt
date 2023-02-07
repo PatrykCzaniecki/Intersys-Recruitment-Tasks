@@ -1,0 +1,15 @@
+C:\Users\Patryk\Desktop\Intersys-Recruitment-Tasks\IntersysTaskPermutation\bin\Debug\net6.0\IntersysTaskPermutation.exe
+C:\Users\Patryk\Desktop\Intersys-Recruitment-Tasks\IntersysTaskPermutation\bin\Debug\net6.0\IntersysTaskPermutation.deps.json
+C:\Users\Patryk\Desktop\Intersys-Recruitment-Tasks\IntersysTaskPermutation\bin\Debug\net6.0\IntersysTaskPermutation.runtimeconfig.json
+C:\Users\Patryk\Desktop\Intersys-Recruitment-Tasks\IntersysTaskPermutation\bin\Debug\net6.0\IntersysTaskPermutation.dll
+C:\Users\Patryk\Desktop\Intersys-Recruitment-Tasks\IntersysTaskPermutation\bin\Debug\net6.0\IntersysTaskPermutation.pdb
+C:\Users\Patryk\Desktop\Intersys-Recruitment-Tasks\IntersysTaskPermutation\obj\Debug\net6.0\IntersysTaskPermutation.csproj.AssemblyReference.cache
+C:\Users\Patryk\Desktop\Intersys-Recruitment-Tasks\IntersysTaskPermutation\obj\Debug\net6.0\IntersysTaskPermutation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Patryk\Desktop\Intersys-Recruitment-Tasks\IntersysTaskPermutation\obj\Debug\net6.0\IntersysTaskPermutation.AssemblyInfoInputs.cache
+C:\Users\Patryk\Desktop\Intersys-Recruitment-Tasks\IntersysTaskPermutation\obj\Debug\net6.0\IntersysTaskPermutation.AssemblyInfo.cs
+C:\Users\Patryk\Desktop\Intersys-Recruitment-Tasks\IntersysTaskPermutation\obj\Debug\net6.0\IntersysTaskPermutation.csproj.CoreCompileInputs.cache
+C:\Users\Patryk\Desktop\Intersys-Recruitment-Tasks\IntersysTaskPermutation\obj\Debug\net6.0\IntersysTaskPermutation.dll
+C:\Users\Patryk\Desktop\Intersys-Recruitment-Tasks\IntersysTaskPermutation\obj\Debug\net6.0\refint\IntersysTaskPermutation.dll
+C:\Users\Patryk\Desktop\Intersys-Recruitment-Tasks\IntersysTaskPermutation\obj\Debug\net6.0\IntersysTaskPermutation.pdb
+C:\Users\Patryk\Desktop\Intersys-Recruitment-Tasks\IntersysTaskPermutation\obj\Debug\net6.0\IntersysTaskPermutation.genruntimeconfig.cache
+C:\Users\Patryk\Desktop\Intersys-Recruitment-Tasks\IntersysTaskPermutation\obj\Debug\net6.0\ref\IntersysTaskPermutation.dll
