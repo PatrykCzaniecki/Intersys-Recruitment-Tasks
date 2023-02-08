@@ -1,0 +1,15 @@
+C:\Users\Patryk\Desktop\Intersys-Recruitment-Tasks\IntersysTaskCommonDigit\bin\Debug\net6.0\IntersysTaskCommonDigit.exe
+C:\Users\Patryk\Desktop\Intersys-Recruitment-Tasks\IntersysTaskCommonDigit\bin\Debug\net6.0\IntersysTaskCommonDigit.deps.json
+C:\Users\Patryk\Desktop\Intersys-Recruitment-Tasks\IntersysTaskCommonDigit\bin\Debug\net6.0\IntersysTaskCommonDigit.runtimeconfig.json
+C:\Users\Patryk\Desktop\Intersys-Recruitment-Tasks\IntersysTaskCommonDigit\bin\Debug\net6.0\IntersysTaskCommonDigit.dll
+C:\Users\Patryk\Desktop\Intersys-Recruitment-Tasks\IntersysTaskCommonDigit\bin\Debug\net6.0\IntersysTaskCommonDigit.pdb
+C:\Users\Patryk\Desktop\Intersys-Recruitment-Tasks\IntersysTaskCommonDigit\obj\Debug\net6.0\IntersysTaskCommonDigit.csproj.AssemblyReference.cache
+C:\Users\Patryk\Desktop\Intersys-Recruitment-Tasks\IntersysTaskCommonDigit\obj\Debug\net6.0\IntersysTaskCommonDigit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Patryk\Desktop\Intersys-Recruitment-Tasks\IntersysTaskCommonDigit\obj\Debug\net6.0\IntersysTaskCommonDigit.AssemblyInfoInputs.cache
+C:\Users\Patryk\Desktop\Intersys-Recruitment-Tasks\IntersysTaskCommonDigit\obj\Debug\net6.0\IntersysTaskCommonDigit.AssemblyInfo.cs
+C:\Users\Patryk\Desktop\Intersys-Recruitment-Tasks\IntersysTaskCommonDigit\obj\Debug\net6.0\IntersysTaskCommonDigit.csproj.CoreCompileInputs.cache
+C:\Users\Patryk\Desktop\Intersys-Recruitment-Tasks\IntersysTaskCommonDigit\obj\Debug\net6.0\IntersysTaskCommonDigit.dll
+C:\Users\Patryk\Desktop\Intersys-Recruitment-Tasks\IntersysTaskCommonDigit\obj\Debug\net6.0\refint\IntersysTaskCommonDigit.dll
+C:\Users\Patryk\Desktop\Intersys-Recruitment-Tasks\IntersysTaskCommonDigit\obj\Debug\net6.0\IntersysTaskCommonDigit.pdb
+C:\Users\Patryk\Desktop\Intersys-Recruitment-Tasks\IntersysTaskCommonDigit\obj\Debug\net6.0\IntersysTaskCommonDigit.genruntimeconfig.cache
+C:\Users\Patryk\Desktop\Intersys-Recruitment-Tasks\IntersysTaskCommonDigit\obj\Debug\net6.0\ref\IntersysTaskCommonDigit.dll
