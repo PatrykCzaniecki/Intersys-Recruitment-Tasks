@@ -1,0 +1,15 @@
+C:\Users\Patryk\Desktop\Intersys-Recruitment-Tasks\IntersysTaskDigitSum\bin\Debug\net6.0\IntersysTaskDigitSum.exe
+C:\Users\Patryk\Desktop\Intersys-Recruitment-Tasks\IntersysTaskDigitSum\bin\Debug\net6.0\IntersysTaskDigitSum.deps.json
+C:\Users\Patryk\Desktop\Intersys-Recruitment-Tasks\IntersysTaskDigitSum\bin\Debug\net6.0\IntersysTaskDigitSum.runtimeconfig.json
+C:\Users\Patryk\Desktop\Intersys-Recruitment-Tasks\IntersysTaskDigitSum\bin\Debug\net6.0\IntersysTaskDigitSum.dll
+C:\Users\Patryk\Desktop\Intersys-Recruitment-Tasks\IntersysTaskDigitSum\bin\Debug\net6.0\IntersysTaskDigitSum.pdb
+C:\Users\Patryk\Desktop\Intersys-Recruitment-Tasks\IntersysTaskDigitSum\obj\Debug\net6.0\IntersysTaskDigitSum.csproj.AssemblyReference.cache
+C:\Users\Patryk\Desktop\Intersys-Recruitment-Tasks\IntersysTaskDigitSum\obj\Debug\net6.0\IntersysTaskDigitSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Patryk\Desktop\Intersys-Recruitment-Tasks\IntersysTaskDigitSum\obj\Debug\net6.0\IntersysTaskDigitSum.AssemblyInfoInputs.cache
+C:\Users\Patryk\Desktop\Intersys-Recruitment-Tasks\IntersysTaskDigitSum\obj\Debug\net6.0\IntersysTaskDigitSum.AssemblyInfo.cs
+C:\Users\Patryk\Desktop\Intersys-Recruitment-Tasks\IntersysTaskDigitSum\obj\Debug\net6.0\IntersysTaskDigitSum.csproj.CoreCompileInputs.cache
+C:\Users\Patryk\Desktop\Intersys-Recruitment-Tasks\IntersysTaskDigitSum\obj\Debug\net6.0\IntersysTaskDigitSum.dll
+C:\Users\Patryk\Desktop\Intersys-Recruitment-Tasks\IntersysTaskDigitSum\obj\Debug\net6.0\refint\IntersysTaskDigitSum.dll
+C:\Users\Patryk\Desktop\Intersys-Recruitment-Tasks\IntersysTaskDigitSum\obj\Debug\net6.0\IntersysTaskDigitSum.pdb
+C:\Users\Patryk\Desktop\Intersys-Recruitment-Tasks\IntersysTaskDigitSum\obj\Debug\net6.0\IntersysTaskDigitSum.genruntimeconfig.cache
+C:\Users\Patryk\Desktop\Intersys-Recruitment-Tasks\IntersysTaskDigitSum\obj\Debug\net6.0\ref\IntersysTaskDigitSum.dll
