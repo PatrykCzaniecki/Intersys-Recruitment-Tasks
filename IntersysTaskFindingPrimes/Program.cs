@@ -4,10 +4,12 @@ internal class Program
 {
     private static void Main(string[] args)
     {
+        Console.WriteLine("Provide number of test cases: ");
         var testCases = int.Parse(Console.ReadLine()!);
 
-        while (testCases --> 0)
+        while (testCases-- > 0)
         {
+            Console.WriteLine("Provide range between numbers to check: ");
             var inputs = Console.ReadLine()!.Split();
             var m = int.Parse(inputs[0]);
             var n = int.Parse(inputs[1]);

@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntersysTaskFindingPrimes", "IntersysTaskFindingPrimes\IntersysTaskFindingPrimes.csproj", "{852D0535-7217-45A2-8061-2CD346EFBBA2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntersysTaskFindingPrimes", "IntersysTaskFindingPrimes.csproj", "{ED6C38CD-79BD-463E-919B-F80843FD4848}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{852D0535-7217-45A2-8061-2CD346EFBBA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{852D0535-7217-45A2-8061-2CD346EFBBA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{852D0535-7217-45A2-8061-2CD346EFBBA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{852D0535-7217-45A2-8061-2CD346EFBBA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED6C38CD-79BD-463E-919B-F80843FD4848}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED6C38CD-79BD-463E-919B-F80843FD4848}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED6C38CD-79BD-463E-919B-F80843FD4848}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED6C38CD-79BD-463E-919B-F80843FD4848}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {9B590624-3908-46C0-BB44-0A148F5974B1}
+		SolutionGuid = {C7B116E0-6868-42DA-93C1-654A38F8CC1B}
 	EndGlobalSection
 EndGlobal

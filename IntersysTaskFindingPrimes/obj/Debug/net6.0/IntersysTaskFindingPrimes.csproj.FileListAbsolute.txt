@@ -1,0 +1,15 @@
+C:\Users\Patryk\Desktop\Intersys-Recruitment-Tasks\IntersysTaskFindingPrimes\bin\Debug\net6.0\IntersysTaskFindingPrimes.exe
+C:\Users\Patryk\Desktop\Intersys-Recruitment-Tasks\IntersysTaskFindingPrimes\bin\Debug\net6.0\IntersysTaskFindingPrimes.deps.json
+C:\Users\Patryk\Desktop\Intersys-Recruitment-Tasks\IntersysTaskFindingPrimes\bin\Debug\net6.0\IntersysTaskFindingPrimes.runtimeconfig.json
+C:\Users\Patryk\Desktop\Intersys-Recruitment-Tasks\IntersysTaskFindingPrimes\bin\Debug\net6.0\IntersysTaskFindingPrimes.dll
+C:\Users\Patryk\Desktop\Intersys-Recruitment-Tasks\IntersysTaskFindingPrimes\bin\Debug\net6.0\IntersysTaskFindingPrimes.pdb
+C:\Users\Patryk\Desktop\Intersys-Recruitment-Tasks\IntersysTaskFindingPrimes\obj\Debug\net6.0\IntersysTaskFindingPrimes.csproj.AssemblyReference.cache
+C:\Users\Patryk\Desktop\Intersys-Recruitment-Tasks\IntersysTaskFindingPrimes\obj\Debug\net6.0\IntersysTaskFindingPrimes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Patryk\Desktop\Intersys-Recruitment-Tasks\IntersysTaskFindingPrimes\obj\Debug\net6.0\IntersysTaskFindingPrimes.AssemblyInfoInputs.cache
+C:\Users\Patryk\Desktop\Intersys-Recruitment-Tasks\IntersysTaskFindingPrimes\obj\Debug\net6.0\IntersysTaskFindingPrimes.AssemblyInfo.cs
+C:\Users\Patryk\Desktop\Intersys-Recruitment-Tasks\IntersysTaskFindingPrimes\obj\Debug\net6.0\IntersysTaskFindingPrimes.csproj.CoreCompileInputs.cache
+C:\Users\Patryk\Desktop\Intersys-Recruitment-Tasks\IntersysTaskFindingPrimes\obj\Debug\net6.0\IntersysTaskFindingPrimes.dll
+C:\Users\Patryk\Desktop\Intersys-Recruitment-Tasks\IntersysTaskFindingPrimes\obj\Debug\net6.0\refint\IntersysTaskFindingPrimes.dll
+C:\Users\Patryk\Desktop\Intersys-Recruitment-Tasks\IntersysTaskFindingPrimes\obj\Debug\net6.0\IntersysTaskFindingPrimes.pdb
+C:\Users\Patryk\Desktop\Intersys-Recruitment-Tasks\IntersysTaskFindingPrimes\obj\Debug\net6.0\IntersysTaskFindingPrimes.genruntimeconfig.cache
+C:\Users\Patryk\Desktop\Intersys-Recruitment-Tasks\IntersysTaskFindingPrimes\obj\Debug\net6.0\ref\IntersysTaskFindingPrimes.dll
